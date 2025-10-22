@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #111;
+  color: white;
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: #ff0055;
+}
+
+.circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 1px solid white;
+  background-color: #ff0055;
+}
