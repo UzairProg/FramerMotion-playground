@@ -85,10 +85,6 @@ Guidelines:
 - Add a short comment/note explaining the learning goal for new files
 - Prefer one topic per file so others can digest examples quickly
 
-## License
-
-This repository is available under the MIT License. See `LICENSE` (or add one) for details.
-
 ## Author
 
 UzairProg
