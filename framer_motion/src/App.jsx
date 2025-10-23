@@ -8,7 +8,10 @@ const App = () => {
       animate={{ // in motion we pass an object to the animate prop
         x: 1000,
       }}
-      className='box'>
+      transition={{
+        duration: 3
+      }}
+      className='circle'>
         
       </motion.div>
 
